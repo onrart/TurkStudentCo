@@ -1,0 +1,5 @@
+ürün1,kategori1,10,5
+ürün2,kategori2,20,10
+ürün1,kategori1,10,5
+ürün2,kategori2,20,10
+ürün3,kategori3,30,15
